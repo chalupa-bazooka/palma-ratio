@@ -1,2 +1,3 @@
 # Palma Ratio project
-I've thought of creating a sorta website that would display several Palma Ratio graphs for selected countries. Let's see if I can accomplish it.
+This is a small pet project of mine to practice some basic HTML, CSS, and Bootstrap. Perhaps later I'll add some JS and React to it.
+The idea is to show what Palma Ratio is and give some examples.
